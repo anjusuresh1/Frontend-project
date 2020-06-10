@@ -1,0 +1,134 @@
+*{
+  margin: 0;
+}
+body{
+  margin-bottom: 0;
+}
+.center-body{
+  height: 0px;
+}
+.img-mainbody{
+  height:420px;
+  width:1350px;
+  padding-top: 280px;
+  border-top-left-radius: 40px;
+}
+.mainbody{
+  background-color: hsl(229, 57%, 11%);
+  height: 600px;
+}
+.left-box{
+  background-color: hsl(228, 56%, 26%);
+  width:270px;
+  padding-top: 30px;
+  height: 120px;
+  position: relative;
+  bottom: 510px;
+  left:250px;
+  border-radius: 10px 80px 10px 10px;
+}
+.text1{
+  padding-left: 30px;
+  height:2rem;
+}
+.logo1{
+  background-color: hsl(229, 57%, 11%);
+  width: 2rem;
+  height: 2rem;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-left: 30px;
+  border-style: none;
+  position: relative;
+  top:42px;
+  right: 140px;
+}
+.logo2{
+  background-color: hsl(229, 57%, 11%);
+  width: 2rem;
+  height: 2rem;
+  border-radius: 10px;
+  border-style: none;
+  position: relative;
+  top: 39px;
+  right: 130px;
+}
+.logo3{
+  background-color: hsl(229, 57%, 11%);
+  width: 2rem;
+  height: 2rem;
+  border-radius: 10px;
+  position: relative;
+  top: 7px;
+  bottom: 1px;
+  left: 125px;
+  border-style: none;
+}
+.l1{
+  width: 1rem;
+  height: 1.1rem;
+  position: relative;
+  margin: auto;
+}
+.l2{
+  width: 1rem;
+  height: 0.9rem;
+  position: relative;
+  margin: auto;
+}
+.l3{
+  width: 1rem;
+  height: 0.8rem;
+  position: relative;
+  margin: auto;
+}
+.right-box{
+  background-color: hsl(228, 56%, 26%);
+  width:350px;
+  height: 80px;
+  position: relative;
+  bottom: 620px;
+  left: 547px;
+  border-radius: 10px;
+  padding-top: 30px;
+  padding-left: 30px;
+}
+.right-box>h5{
+  color:hsl(229, 7%, 55%);
+  margin-bottom: 1px;
+}
+.s1{
+  color: hsl(243, 100%, 93%);
+}
+.layer1{
+  background-color: hsl(229, 57%, 11%);
+  width: 90%;
+  height: 0.6rem;
+  border-radius: 1rem;
+  padding-top: 0.2rem;
+}
+.layer2{
+  background-color: #f38181;
+  height:0.4rem;
+  width:60%;
+  border-radius: 1rem;
+  margin-left:2px;
+}
+.pointer{
+  border-style: none;
+  border-top-style: dotted;
+  width: 10%;
+  border-width: 10px;
+  border-color: white;
+  position: relative;
+  left: 180px;
+  bottom: 1px;
+}
+.right-box>h6{
+  color: hsl(243, 100%, 93%);
+  position: relative;
+  top:30px;
+}
+.space{
+  margin-left: 250px;
+}
